@@ -1,0 +1,2150 @@
+{
+ "nombre": "Finca La Pinta ",
+ "telefono": "5372507160",
+ "correo_electronico": "finca.la.pinta.@gmail.com",
+ "pagina_web": "https://fincalapinta.com",
+ "tipo_establecimiento": "bar_restaurante"
+ "tipo_cocina": "cubana e internacional",
+ "horario":{
+   "apertura": "12:00",
+   "cierre": "18:00",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado",
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      "True"
+],
+ "opciones_entrega": [
+      "Domicilio"
+],
+ "metodos_pagos": [
+      "Efectivo":
+          "CUP"
+          "EUR"
+          "USD"
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "Finca"La Pinta",
+ "instagram": "finca_la_pinta",
+ "menu":[
+      "Entrante":[
+          "Pizza", 
+          "Perro Caliente",
+          "Chicharrones",
+          "Tamales con Carne",
+          "Tostones de Plátano",
+          "Panes con Pasta",
+          "Cóctel de Frutas"
+        ],
+      "Comida":[
+          "Carne de Cerdo Asada",
+          "Pollo Asado al Carbón",
+          "Carne de Cerdo a la Plancha",
+          "Pescado Asado o Filetes de Pescado a la Plancha",
+          "Arroz Congri",
+          "Viandas", 
+          "Ensalada de Vegetales",
+        ],
+      "Postre":[
+          "Rollos de Jamón y Queso"
+        ]
+    ]
+ "ubicacion" {
+      "calle": "avenida25 #2409 e/20y28,Punta Brava",
+      "municipio": "La Lisa",
+      "provincia": "Habana",
+      "pais": "Cuba",
+      "coordenadas": "23.1164774,-82.3697682"
+    }
+}
+{
+ "nombre": "Mia Pizza",
+ "telefono": "51469744",
+ "correo_electronico": "lamiapizzacuba@gmail.com",
+ "pagina_web": "",
+ "tipo_establecimiento": "restaurante",
+ "tipo_cocina": "italiana,pizza y comida",
+ "horario":{
+   "apertura": "11:00",
+   "cierre": "23:00",
+   "dias_operacion": [
+      "Lunes"
+      "Martes"
+      "Miercoles"
+      "Jueves"
+      "Viernes"
+      "Sabado"
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      "True"
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      "null"
+],
+"circulos infantiles": [
+      "null"
+],
+"opciones_amenidad": [
+      "aire libre"
+],
+"promociones_descuento": ""
+ "facebook": "La Mia Pizza ",
+ "instagram": "@lamiapizza_",
+ "menu": [
+      "Entarntes":[
+          "Entremes de jamon y queso" Precio $1400.00,
+          "Entremes de jamon" Precio $500.00,
+          "Entremes de ahumados" Precio $440.00,
+          "Entremes de aceitunas" Precio $300.00,
+          "Dados de queso" Precio $300.00,
+          "Croquetas de embutido" Precio $220.00
+        ],
+        "Cremas":[
+          "Crema de queso" Precio $250.00,
+          "Crema aurora" Precio $300.00,
+          "Crema virginia" Precio $430.00,
+        ],
+        "Lasaña":[
+          "Lasaña de jamon" Precio $500.00
+          "Lasaña de jamon y chorizo" Precio $610.00
+        ],
+        "Espaguetis":[
+          "Espaguetis napolitano" Precio $700.00,
+          "Espaguetis a la carbonara" Precio$860.00
+        ],
+        "Agregos":[
+          "Queso" Precio $320.00,
+          "Jamon" Precio $300.00,
+          "Chorizo" Precio $220.00,
+          "Atun" Precio $280.00,
+          "Aji pimiento" Precio $120.00,
+          "Cebolla" Precio $120.00,
+          "Piña" Precio $100.00,
+          "Ahumado" Precio $300.00,
+          "Aceitunas" Precio $200.00,
+          "Queso azul" Precio $500.00,
+        ],
+        "Menu peque":[
+          "Pizza junior napolitana" Precio $350.00,
+          "Espaguetis junior napolitano" Precio $300.00,
+          "Combinacion del menu" Precio $650.00,
+          "Pizza junior La Mia" Precio $1500.00
+        ],
+        "Pizza de 32cm":[
+          "Pizza napolitana" Precio $700.00,
+          "Pizza La Mia" Precio $2500.00,
+          "Pizza La Mia de queso" Precio $1900.00,
+          "Pizza Tres Queso" Precio $1700.00,
+        ],
+        "Pizzas Familiares":[
+          "Pizza La Mia Familiar" Precio $4800.00,
+          "Pizza La Mia Familiar de Queso" Precio $4000.00,
+          "Pizza familiar napolitana" Precio $2500.00
+        ],
+    ]
+ "ubicacion" {
+      "calle": "",
+      "municipio": "La Lisa",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": "23.07125,-82.46"
+    }
+}
+
+{
+ "nombre": "Don Omar",
+ "telefono": "054068431",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "restaurante_cafeteria",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "11:00",
+   "cierre": "11:00",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado",
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "facebook.com/866657/53698572",
+ "instagram": "",
+ "menu": [
+      "Entrantes":[
+          "Picadera Don Omar"(Camaron,Faja de pollo,Queso,Jamon,Tostones mixtos) Precio $1800.00,
+          "Ensalada jamon" Precio $350.00,
+          "Ensalada pollo" Precio $400.00
+          "Esperian" Precio $900.00,
+          "Faja de pollo" Precio $700.00,
+          "Faja de cerdo" Precio $850.00,
+          "Coctel de camaron" Precio $850.00,
+          "Coctel langosra" Precio $800.00
+          "Entreme surtido" Precio $650.00
+          "Entreme jamon y queso" Precio $500.00,
+          "Tostones de jamon" Precio $350.00,
+          "Ensalada de atun" Precio $350.00,
+          "Ensalada de camaron" Precio $800.00,
+          "Toston de atun" Precio $350.00,
+          "Toston de queso" Precio $350.0,
+          "Toston de jamon y queso" Precio $400.00
+        ],
+        "Vianda y Ensalada":[
+          "Tostones" Precio $250.00,
+          "Platano.maduro frito" Precio $250.00,
+          "Chicharrita de platano" Precio $250.00,
+          "Chicharrita de boniato" Precio $250.00,
+          "Yuca con mojo" Precio $250.00,
+          "Ensalada estacion" Precio $200.00,
+          "Papa Frita" Precio $500.00
+        ],
+        "Arroz":[
+          "Blanco" Precio $150.00,
+          "Moro" Precio $250.00,
+          "Pilaf" Precio $300.00
+        ],
+        "Sopa":[
+        "Mariscos" Precio $850.00,
+        "Pollo" Precio $450.00
+        ],
+        "Sugerencias del Chef":[
+          "Mega grillada del caribe"(langosta,camaron,filete pescado,cerdo,pollo y res) Precio $3800.00,
+          "Mar y Tierra"(langosta,camaron,cerdo,pollo y lomo) Precio $3000.00,
+          "Paella al estilo del chef" Precio $2500.00,
+          "Gran grillada del mar"(langosta,camaron y filete) Precio $2500.00,
+          "Don Omar con lomo"(uruguayo,lomo y masa) Precio $2700.00,
+          "Don Omar con pollo"(uruguayo,pollo y masa) Precio $2500.00,
+          "Cacerola del mar"(camaron,langosta y filete) Precio $2600.00 
+          "Delicia tropical"(langosta,camaron,piña,queso y bechamel) Precio $2300.00,
+          "Grillada Don Omar"(pollo,res y cerdo) Precio $2100.00,
+          "Tazon Mariscos"(langosta y camaron) Precio $2200.00,
+          "Faja mixta a la criolla"(res,pollo,cerdo y vegetales) Precio $2100.00
+        ],
+        "Del Camaron":[
+          "Camaron Heminguey"(Bacon,licor marrasquino) Precio $1800.00
+          "Camaron al ajillo" Precio $1600.00,
+          "Camaron al vino tinto" Precio $1600.00,
+          "Camaron empanado" Precio $1600.00,
+          "Camaron enchilado" Precio $1600.00,
+          "Camaron grille" Precio $1600.00
+        ],
+        "De la Langosta":[
+          "Enchilado de langosta" Precio $1600.00,
+          "Langosta al Ron" Precio $1600.00,
+          "Langosta Mariposa" Precio $1600.00
+        ],
+        "Del Mar":[
+          "Ihomville"(filete,camaron,bechamel,mostaza y queso) Precio $]1850.00,
+          "Filete gratinado con camarones" Precio $1650.00,
+          "Filete Canciller"(filete empanado con jamos y queso) Precio $1400.00,
+          "Filete gratinado de jamon y queso" Precio $1350.00,
+          "Filete granatizado de queso" Precio $1250.00,
+          "Filete empanado" Precio $1100.00,
+          "Filete grille" Precio $1050.00
+        ],
+        "Res":[
+          "Bistec de res uruguayo" Precio $1100.00,
+          "Faja de res criolla" Precio $900.00,
+          "Bistec grille de res" Precio $900.00,
+          "Vaca frita" Precio $900.00,
+          "Ropa vieja" Precio $950.00
+        ],
+        "Pollo":[
+          "Pollo Parisien"(camaron,Bechamel) Precio $1600.00,
+          "Pollo.al Angel"(jamon,pimiento y piña) Precio $950.00,
+          "Pollo Golden blu" Precio $1100.00,
+          "Pollo reina" Precio $950.00,
+          "Pollo gratinado jamon y queso" Precio $1100.00,
+          "Pollo empanado" Precio $900.00,
+          "Pollo ahumado hecho jamon" Precio $900.00,
+          "Pollo frito" Precio $900.00,
+          "Pollo grille" Precio $800.00,
+          "Bistec de pechuga de pollo" Precio $1100.00
+        ],
+        "Del Cerdo":[
+          "Lomo Hawaiano" Precio $1500.00,
+          "Bistec de cerdo Uruguayo" Precio $1300.00,
+          "Lomo Ahumado" Precio $1250.00,
+          "Bistec reina" Precio $1150.00,
+          "Bistec luna" Precio $1150.00,
+          "Escalope de cerdo" Precio $1150.00,
+          "Bistec de cerdo gratinado jamon y queso" Precio $1350.00
+          "Masa de cerdo frita" Precio $1050.00,
+          "Bistec de cerdo" Precio $1100.00,
+          "Fricase de cerdo" Precio $1100.00,
+          "Estofado de cerdo" Precio $1100.00
+        ],
+        "Pizzas":[
+          "Mixta" Precio $950.00,
+          "Hawaiana" Precio $650.00,
+          "Atun" Precio $600.00,
+          "Aji" Precio $550.00,
+          "Cebolla" Precio $550.00,
+          "Jamon" Precio $600.00,
+          "Queso" Precio $500.00,
+          "Chorizo" Precio $600.00
+        ],
+        "Pastas":[
+          "Mixta" Precio $750.00,
+          "Camaron" Precio $800.00,
+          "Atun" Precio $500.00,
+          "Jamon" Precio $460.00,
+          "Chorizo" Precio $450.00,
+          "Queso" Precio $400.00
+        ],
+        "Agregos":[
+          "Camaron" Precio $650.00,
+          "Queso" Precio $300.00,
+          "Jamon" Precio $200.00,
+          "Chorizo" Precio $200.00,
+          "Piña" Precio $150.00,
+          "Atun" Precio $300.00,
+          "Cebolla" Precio $150.00,
+          "Mayonesa" Precio $150.00
+        ],
+        "Postres":[
+          "Batido de Helado" Precio $350.00,
+          "Boladas de Helado" Precio $320.00,
+          "Flan" Precio $300.00,
+          "Copa Lolita" Precio $450.00,
+          "Jugo de Mango" Precio $350.00,
+          "Batido de Mango" Precio $400.00
+          "Batido de Mamey" Precio $400.00
+          "Cuña de Kake" Precio $400.00,
+          "Postre de la casa" Precio $500.00,
+        ],
+        "Cafe":[
+          "Expreso" Precio $200.00,
+          "Cortadito" Precio $250.$200
+        ],
+        "Vodka":[
+          "Grey goose" Precio $500.00
+        ],
+        "Crema":[
+          "Ruavieja" Precio $500.00,
+          "Sheridans" Precio $550.00
+        ],
+        "Tequilas":[
+          "Olmeca reposado" Precio $450.00
+          "Olmeca blanco" Precio $400.00,
+          "Tequila de chocolate" Precio $400.00,
+          "Jose Cuervo" Precio $500.00
+        ],
+        "Rones":[
+          "Añejo 7 años" Precio $250.00,
+          "Ritual" Precio $250.00,
+          "Reserva" Precio $250.00,
+          "Ron Santiago" Precio $200.00,
+          "Mulata 15 años" Precio $300.00,
+          "Old Pard" Precio $350.00,
+          "Crow Royal" Precio $350.00,
+          "Flr de Caña" Precio $400.00,
+          "Brugal" Precio $400.00,
+          "Santiago 7 años" Precio $250.00
+          "Pacto Navio" Precio $550.00,
+          "Seleccion del Maestro" Precio $550.00
+        ],
+        "Wiskey":[
+          "Jamenson" Precio $450.00,
+          "Clan Camber" Precio $350.00,
+          "Ballentine" Precio $400.00,
+          "Chiva Regal 15" Precio $550.00,
+          "Granst" Precio $300.00,
+          "WS" Precio $200.00,
+          "River Queen" Precio $200.00,
+          "Jack Daniels" Precio $550.00,
+          "Red Label" Precio $450.00,
+          "Black Lebel" Precio $500.00,
+          "The Glen Livet" Precio $500.00,
+          "Chanceler" Precio $200.00
+        ],
+        "Vinos":[
+          "Tinto" Precio $450.00,
+          "Blanco" Precio $350.00,
+          "Rosa" Precio $350.00
+        ],
+        "Del Bar":[
+          "Refresco"(1500ml) Precio $550.00,
+          "Refresco" Precio $250.00,
+          "Malta" Precio $300.00,
+          "Energizante" Precio $300.00,
+          "Jugo de caja" Precio $190.00,
+          "Kermato" Precio $450.00,
+          "Cerveza" Precio $260.00,
+          "Cristal" Precio $300.00,
+          "Corona" Precio $400.00,
+          "Bucanero" Precio $300.00,
+          "Agua natutal" Precio $150.00,
+          "Jugo lata" Precio $280.00
+        ],
+        "Tragos":[
+          "Blue Love Corona" Precio $1000.00,
+          "Blue Love Cristal" Precio $900.00,
+          "Michelada" Precio $450.00,
+          "Chelada" Precio $450.00,
+          "Sangria" Precio $400.00,
+          "Caipiriña" Precio $350.00,
+          "Cuba Libre" Precio $350.00,
+          "Caipiroska" Precio $350.00,
+          "Mijito" Precio $350.00,
+          "Gin Tonic" Precio $400.00,
+          "Piña Colada" Precio $400.00,
+          "Cubanito" Precio $400.00,
+          "Bloody Mary" Precio $400.00,
+          "Screwdriver" Precio $350.00,
+          "Daiquiri" Precio $350.00,
+          "Maragarita" Precio $500.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "",
+      "municipio": "Cotorro",
+      "provincia": "Habana",
+      "pais": "Cuba",
+      "coordenadas": "23.04885,-82.26546"
+    }
+}
+{
+ "nombre": "La Lola",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "bar",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": []
+ "ubicacion" {
+      "calle": "Ayestaran,esquina Pedro Pablo",
+      "municipio": "Cerro",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Buona Sera",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entarntes":[
+          "Entremes de Jamon"(87gr) Precio $360.00,
+          "Entremes de Chorizo"(87gr) Precio $369.00,
+          "Entremes de Jamon/Chorizo"(87gr) Precio $720.00,
+          "Bolitas de Queso"(209gr) Precio $5000.00,
+          "Bolitas de Embutido"(209gr) Precio $4500.00
+        ],
+        "Pasta":[
+          "Espaguetis Napolitano Queso Blanco"(406gr) Precio $450.00
+          "Espaguetis Napolitano Queso Gouda"(406gr) Precio $600.00,
+        ],
+        "Pizza":[
+          "Pizza Chiquuta de Queso Blanco"(203gr) Precio $300.00,
+          "Pizza Napolitana de Queso Blanco"(319gr) Precio $400.00
+          "Pizza Napolitana de Queso Gouda"(319gr) Precio $600.00
+        ],
+        "Sugerencias de la casa":[
+          "Lazaña de Embutido"(348gr) Precio $650.00
+        ],
+        "Agregos":[
+          "Piña"(58gr) Precio $80.00,
+          "Queso Blanco"(58gr) Precio $200.00,
+          "Jamon"(58gr) Precio $240.00,
+          "Chorizo"(58gr) Precio$240.00,
+          "Queso Gouda"(58gr) Precio $360.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Esquina23 e I,Vedado",
+      "municipio": "Plaza de la Revolucion"
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Jardin",
+ "telefono": "78311414",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "restaurante",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      "True"
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entrantes":[
+          "Cesta de galletas y Tostadas de Baguette" Precio $220.00,
+          "Tabla de queso Gouda con frutas" Precio $660.00,
+          "Rosas de jamon Serrano" Precio $110.00,
+          "Cesticas de atun" Precio $495.00
+          "Tartare de pescado(Jardin)" Precio $638.00,
+          "Croqueticas de la casa" Precio $495.00,
+          "Frituras de Malanga" Precio $440.00
+        ],
+        "Sopas y Cremas":[
+          "Crema de calabaza con hilos de carne" Precio $265.00,
+          "Crema de camarones" Precio $660.00
+        ],
+        "Sugerencia del chef":[
+          "Grillada campesina(2pax)" Precio $4730.00
+        ],
+        "Principales de Mar":[
+          "Filete de pescaso Grille" Precio $1540.00,
+          "Pescado al Ajillo" Precio $1760.00,
+          "Camaron al gusto" Precio $2530.00
+        ],
+        "Principales de la Tierra":[
+          "Masas de cerdo confitadas" Precio $1980.00,
+          "Lomo de cerdo ahumado" Precio $1540.00,
+          "Fajitas de cerdo salteadas" Precio $1430.00,
+          "Dedos de pechuga de pollo al pesto" Precio $1760.00
+        ],
+        "Guarniciones":[
+          "Arroz blanco" Precio $110.00,
+          "Arroz moro" Precio $198.00,
+          "Vianda con mojo" Precio $165.00,
+          "Vegetales salteados" Precio $165.00,
+          "Mixto del vegetal" Precio $165.00
+        ],
+        "Postre":[
+          "Biscocho de chocolate" Precio $ 198.00,
+          "Mi Cuba Linda" Precio $ $165.00,
+          "Parfait del dia" Precio $198.00
+        ],
+        "Infusiones":[
+          "Cafe expreso" Precio $88.00,
+          "Cafe cortadito" Precio $165.00,
+          "Cafe americano" Precio $88.00,
+          "Cafe irlandes" Precio $165.00
+        ],
+        "Bebidas":[
+          "Agua natural" Precio $110.00,
+          "Agua con gas"(500ml) Precio $110.00,
+          "Agua tonica" Precio $110.00,
+          "Refresco importado" Precio $275.00,
+          "Jugos naturales" Precio $110.00
+          "Limonada natural" Precio $110.00
+          "Limonada frescura" Precio $165.00,
+          "Vino tinto copa" Precio $440.00,
+          "Agua natural"(1500ml) Precio $165.00
+        ],
+        "Cerveza":[
+          "Cerveza dispensada,Cuba" Precio $165.00,
+          "Chelada"(Jarra) Precio $275.00,
+          "Michelada"(Jarra) Precio $385.00
+        ],
+        "Cremas y Licores":[
+          "Crema Rua Vieja" Precio $110.00
+        ],
+        "Vodkas":[
+          "Absolut" Precio $165.00,
+          "Wyborowa" Precio $110.00
+        ],
+        "Vino Tinto":[
+          "Vino Tinto campo viejo bot" Precio $2200.00
+        ],
+        "Ginebras":[
+          "Hendricks's" Precio $198.00,
+          "Beefeater" Precio $165.00
+        ],
+        "Cocteleria":[
+          "Mojito" Precio $220.00,
+          "Daiquiri" Precio $220.00,
+          "Ron Collins" Precio $220.00,
+          "Caipiroska" Precio $220.00,
+          "Sangria" Precio $330.00,
+          "Caipirisima" Precio $220.00,
+          "Dry Martini" Precio $220.00,
+          "Screwdriver" Precio $220.00,
+          "Margarita" Precio $220.00
+        ],
+        "Whisky":[
+          "The Glenlivet(Reserve)" Precio $330.00,
+          "Chivas Regal 12 años" Precio $275.00,
+          "Chivas Regal 18 años" Precio $594.00,
+          "Ballantine Finest" Precio $165.00,
+          "Jameson Original" Precio $220.00
+          "Clan Campbell" Precio $198.00
+        ],
+        "Tequilas":[
+          "Olmeca Fusion de Chocolate" Precio $132.00,
+          "Olmeca Silver" Precio $110.00,
+          "Olmeca Reposado" Precio $165.00
+        ],
+        "Rones":[
+          "Pacto Navio" Precio $550.00,
+          "Añejo 15 años" Precio $495.00,
+          "Añejo 7 años" Precio $176.00,
+          "Añejo Especial" Precio $77.00,
+          "Añejo 3 años" Precio $66.00,
+          "Añejo Resera" Precio $132.00,
+          "Añejo Blanco" Precio $55.00,
+          "Añejo Ritual" Precio $99.00,
+          "Cuban Smoky" Precio $154.00,
+          "Cuban Special" Precio $165.00,
+          "Seleccion de Maestros" Precio $440.00,
+          "Profundo" Precio $132.00
+        ],
+        "Terraza":[
+          "Oferta de Cubetazo"(4pax) Precio $4080.00,
+          "Oferta Brindis Caribeño"(4pax) Precio $5500.00,
+          "Oferta Secreto de Maestros"(4pax) Precio $9300.00,
+          "Cerveza bot"(350ml) Precio $300.00,
+          "Cesta de Galletas y Tostadas Baguette" Precio $220.00,
+          "Tartare Jardin" Precio $660.00,
+          "Tabla de queso" Precio $660.00,
+          "Carpaccio de Cobo" Precio $385.00,
+          "Brusquetas Pomodoro" Precio $440.00,
+          "Ensalada Jardin" Precio $358.00,
+          "Croquetas del dia" Precio $495.00,
+          "Frituras de Malanga" Precio $440.00,
+          "Alitas de pollo a la Diabla Habanera" Precio $1925.00,
+          "Esperlan de Pescado" Precio $700.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Linea,Esquina C,Vedado",
+      "municipio": "Plaza de la Revolucion"
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "El Monguito",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "bar_restaurante"
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "12:00",
+   "cierre": "10:00",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entradas":[
+          "Langosta" Precio $2300.00,
+          "Bistec de cerdo" Precio $1620,00
+          "Filete de Pescado" Precio $1520.00,
+          "Lomo Ahumado" Precio $1320.00,
+          "Bistec de pollo"
+          "Nota":Acompañado con arroz,viandas y ensalada
+        ],
+        "Sugerencia":[
+          "Super Pollo Asado" Precio $1490.00
+        ],
+        "Extras":[
+          "Sandwich" Precio $590.00,
+          "Batidos" Precio $460.00,
+          "Jugos Naturales" Precios $250.00
+          "Croquetas" Precios $480.00
+        ],
+        "Bebidas":[
+          "Cafe expreso" Precios $100.00,
+          "Cocteleria" Precios $350.00,
+          "Cerveza"
+          "Refresco"
+        ]
+    ]
+ "ubicacion" {
+      "calle": "L e/23y25,Vedado",
+      "municipio": "Plaza de la Revolucion"
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Habitad",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "Habitad",
+ "instagram": "Habitad_Calzada",
+ "menu": [
+      "Sandwiches":[
+          "Jamon y queso" Precio $700.00,
+          "Mini jamon y queso" Precio $40.00,
+          "Nota":[ketchup,mostaza y pepinillos]
+          "Sandwich cubano"(cerdo,jamon,queso,mayonesa,mostaza,mojo criollo y pepinillo) Precio $1100.00,
+        ],
+        "Helados":[
+          "Soft Monte Freddo"(chocolate,mantecado y rizado) Precio $250.00,
+        ],
+        "Agregos":[
+          "Queso" Precio $150.00,
+          "Jamon" Precio $150.00,
+          "Bacon" Precio $250.00
+        ],
+        "Cafe":[
+          "Expreso" Precio $150.00,
+          "Cortadito" Precio $180.00
+        ],
+        "Otros":[
+          "Agua"(500ml) Precio $220.00,
+          "Pepsi" Precio $380.00,
+          "Fup" Precio $380.00,
+          "Jogo de caja" Precio $280.00,
+          "Mantequilla de mani" Precio $400.00
+        ],
+        "Hamburguesas":[
+          "Sencillas":[
+              "Pollo" Precio $900.00,
+              "Cerdo" Precio $900.00,
+              "Res" Precio $1100.00
+            ],
+            "Mini hamburguesas":[
+              "Cerdo" Precio $450.00,
+              "Pollo" Precio $450.00,
+              "Res" Precio $550.00
+            ],
+            "Chees Burger":[
+              "Pollo" Precio $1050.00,
+              "Cerdo" Precio $1050.00,
+              "Res" Precio $1150.00
+            ],
+            "Hamburguesota":(doble hmburgesa de jamon y queso gouda)[
+              "Pollo" Precio $1500.00,
+              "Cerdo" Precio $1500.00,
+              "Res" Precio $1900.00
+            "Nota":[Todas sale con ketchup,mostaza,lechuga y pepinillos]
+        ],
+        "Lechon":[
+          "Pan con lechon" Precio $850.00,
+          "Mini lechon" Precio $450.00
+        "Nota":[cerdo,pechuga,pepinillos y mojito criollo],
+        "Nota":[Todos los panes salen con chips]
+        ],
+        "Empanadas margaritas":[
+          (Queso blanco,tomates asado y albahaca)4u Precio $600.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Esquina F y Calzada, Vedado",
+      "municipio": "Plaza de la Revolucion",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "El Lolo",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "9:30",
+   "cierre": "10:30",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes", 
+      "Sabado",
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Confeccione su desayuno":[
+          "Cafe expreso" Precio $280.00,
+          "Cafe cortado" Precio $320.00,
+          "Cafe con leche" Precio $360.00,
+          "Cafe capuchino" Precio $]430.00
+          "Panqueque" Precio $250.00,
+          "Cesta de tostadas y mantequilla" Precio $550.00,
+          "Lonjas de jamon y queso" Precio $680.00,
+          "Huevos al gusto" Precio $580.00
+          "Huevos con chorizo y pan" Precio $1080.00
+        ],
+        "Entrantes":[
+          "Brusqueta" Precio $850.00,
+          "Croquetas" Precio $780.00,
+          "Tablita de chorizo y queso guajiro" Precio $1150.00,
+          "Papas fritas del Lolo"(Papas fritas gratinadas con queso y trocitos de chorizo) Precio $1180.00,
+          "Racion de papas fritas" Precio $850.00,
+          "Mixtos de chorizo enteros"(Rojo,blaquetas de cebolla,morcilla,mani y pan tostado) Precio $1350.00,
+          "Picadera del Lolo"(Tres chorizo,jamon,queso,mani,pan y aceitunas) Precio $2350.00,
+          "Tacos de cerdo" Precio $1150.00
+        ],
+        "De la plancha":(Todas las carnes vienen acompañadas de papas fritas y vegetales)[
+          "Filete de pescado" Precio $1950.00,
+          "Camarones Grille" Precio $1980.00,
+          "Pechuga de pollo grille" Precio $1650.00,
+          "Lomo.de cerdo encebollado" Precio $1850.00,
+          "Filete de cerdo grille" Precio $1850.00,
+          "Solomillo de cerdo al ajo y limon" Precio $1950.00,
+          "Filete de merluza" Precio $1450.00,
+        ],
+        "Bebidas":[
+          "Cerveza" Precio $300.00,
+          "Refrescos" Precio $300.00,
+          "Agua" Precio $250.00,
+          "Energizantes" Precio $300.00,
+          "Red Bull" Precio $550.00,
+          "Jugos naturales" Precio $450.00
+          "Sueros de helados" Precio $1200.00
+        ],
+        "Ente pan":(Todos los entre panes salen acompañados con papas fritas)[
+          "Sandwich doble de jamon y queso" Precio $1550.00,
+          "Sandwich doble de chorizo y queso" Precio $1550.00,
+          "Sandwich doble de atun" Precio $1650.00,
+          "Sandwich doble campesino" Precio$1550.00,
+          "Sandwich doble mixto de su eleccion" Precio $1650.00,
+          "Hog dog" Precio $750.00,
+          "Hod dog del Lolo"(Doble hog dog) Precio $1350.00,
+          "Hamburguesa de cerdo con queso" Precio $1250.00,
+          "Hamburguesa doble de cerdo con queso" Precio $1650.00
+        ],
+        "Pizzas":[
+          "Pizzas de queso" Precio $1250.00,
+          "Pizzas de jamon" Precio $1450.00,
+          "Pizzas de chorizo" Precio $1450.00,
+          "Pizzas de atun" Precio $1650.00
+          "Pizzas de cebolla" Precio $1450.00,
+          "Pizzas de pepperoni" Precio $1550.00,
+          "Pizzas de jamon y cebolla" Precio $1650.00,
+          "Pizzas de aceitunas" Precio $1450.00,
+          "Pizzas hawaianas" Precio $1650.00
+        ],
+        "Agregos":[
+          "Jamon" Precio $450.00,
+          "Queso" Precio $480.00,
+          "Chorizo" Precio $450.00,
+          "Chorizo rojo" Precio $450.00,
+          "Blaqueta de cebolla" Precio $450.00,
+          "Morcilla" Precio $450.00,
+          "Cebolla" Precio $320.00,
+          "Huevos" Precio $350.00,
+          "Piña" Precio $430.00,
+          "Mayonesa" Precio $230.00,
+          "Aceituna" Precio $450.00,
+          "Pico de gallo" Precio $430.00,
+          "Pepperoni" Precio $550.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Esquina Línea y M, Vedado ",
+      "municipio": "Plaza de la Revolucion",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "La Esquinita",
+ "telefono": "59104644","76404105"
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "9:00",
+   "cierre": "9:00",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves"
+    ]
+},
+"horario":{
+   "apertura": "10:00",
+   "cierre": "11:00",
+   "dias_operacion":[
+      "Viernes",
+      "Sabado",
+      "Domingo"
+    ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entrantes":[
+          "Papa Frita" Precio $500.00,
+          "Tostones" Precio $400.00,
+          "Papa Rellena" Precio $250.00,
+          "Mariquitas",
+          "Ensalada",
+          "Frituras de Malanga"
+        ],
+        "Plato princupal":[
+          "Arroz Frito" Precio $500.00,
+          "Arroz Frito"(Mariscos) Precio $950.00,
+          "Bistec Gordon Blue" Precio $1300.00,
+          "Lonjas de Cerdo",
+          "Bistec de Cerdo Asado",
+          "Pollo Chiflado" Precio $650.00,
+          "Masas de Cerdo Frita"
+        ],
+        "Pasta":[
+          "Espaguetis(Blanco)" Precio $300.00,
+          "Espaguetis(Gouda)" Precio $450.00,
+          "Espaguetis(Blanco y Jamon)" Precio $400.00,
+          "Espaguetis(Gouda y Jamon)" Precio $550.00,
+          "Espaguetis(Blanco y Chorizo)" Precio $400.00,
+          "Espaguetis(Gouda y Chorizo)" Precio $550.00,
+          "Lasaña Mixta de Embutido","Lasaña de Res"
+        ],
+        "Hamburguesa":[
+          "Hamburguesa Sencilla" Precio $500.00,
+          "Hamburguesa Jamon" Precio $500.00,
+          "Hamburguesa Gouda" Precio $550.00,
+          "Hamburguesa Chorizo" Precio $500.00,
+          "Hamburguesa Jamon y Gouda" Precio $650.00,
+          "Hamburguesa "La Esquinita"" Precio $750.00,
+          "Hamburguesa Papas" Precio $100.00
+        ],
+        "Pizza pequeñas":[
+          "Pizza Queso Blanco" Precio $200.00,
+          "Pizza Queso Gouda" Precio $300.00,
+          "Pizza Queso Blanco y Jamon" Precio $300.00,
+          "Pizza Queso Gouda y Jamon" Precio $400.00,
+          "Pizza Queso Blanco y Chorizo" Precio $300.00,
+          "Pizza Queso Blanco y Atun" Precio $500.00,
+          "Pizza Queso Gouda y Chorizo" Precio $400.00,
+          "Pizza Queso Gouda y Atun" Precio $600.00,
+          "Pizza Queso Blanco y Cebolla" Precio $300.00,
+          "Pizza Queso Blanco y Pimienta" Precio $300.00,
+          "Pizza Queso Gouda y Cebolla" Precio $400.00,
+          "Pizza Queso Gouda y Pimienta" Precio $400.00,
+          "Pizza Queso Blanco Hawaiana" Precio $400.00,
+          "Pizza Queso Gouda Hawaiana" Precio $500.00,
+          "Pizza Especial"La Esquina"" Precio $600.00
+        ],
+        "Pizza grande":[
+          "Pizza Queso Blanco" Precio $400.00,
+          "Pizza Queso Gouda" Precio $650.00,
+          "Pizza Queso Blanco y Jamon" Precio $500.00,
+          "Pizza Queso Gouda y Jamon" Precio $700.00,
+          "Pizza Queso Blanco y Chorizo" Precio $500.00,
+          "Pizza Queso Gouda y Chorizo" Precio $750.00,
+          "Pizza Queso Blanco y Atun" Precio $700.00,
+          "Pizza Queso Gouda y Atun" Precio $950.00,
+          "Pizza Queso Blanco y Cebolla" Precio $500.00,
+          "Pizza Queso Gouda y Cebolla" Precio $750.00,
+          "Pizza Queso Blanco y Pimienta" Precio $500.00,
+          "Pizza Queso Gouda y Pimienta" Precio $750.00,
+          "Pizza Queso Blanco Hawaiana" Precio $550.00,
+          "Pizza Queso Gouda Hawaiana" Precio $800.00,
+          "Pizza especial"La Esquina"" Precio $1200.00,
+          "Pizza Familiar"La Esquina"" Precio $3000.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Juan Lefont e/ Libertad y Johnson",
+      "municipio": "",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "La Terraza del cafe",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "10:30",
+   "cierre": "7:30",
+   "dias_operacion": [
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "laterraza_cafe",
+ "menu": [
+      "Cafe":[
+          ""]]
+ "ubicacion" {
+      "calle": "Calle L #502 esquina 27, Vedado",
+      "municipio": "Plaza de la Revolucion",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Crispy Chicken",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "11:00",
+   "cierre": "12:00",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado",
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Pollo":[
+          "Pollo frito" Precio $1300.00,
+          "Pollo chiflado" Precio $1600.00
+          "Pollo chiflado"(sin hueso) Precio $1800.00,
+          "Pollo relleno"(jamon y queso) Precio $2000.00,
+          " Nuggets de pollo " Precio $1000.00,
+          "Sandwich de pollo" Precio $900.00
+        ],
+        "Entrantes":[
+          "Mini Hot Dog" Precio $300.00,
+          "Flamenquin" Precio $1000.00,
+          "San Jacobo" Precio $1000.00,
+          "Tostones rellenos" Precio $800.00,
+          "Entremes de jamon y queso" Precio $1200.00,
+          "Picadera de la casa"(jamon,queso,chorizo,aceitunas,bolitas de queso y croquetas) Precio $2500.00,
+          "Chips de boniato" Precio $500.00,
+          "Notas":[
+              Todos los platos vienen acompañados con chicharritas]
+            ]
+        ],
+        "Bebidas":[
+          "Batido de Helado" Precio $1000.00,
+          "Malteada" Precio $900.00,
+          "Jugo natural" Precio $400.00,
+          "Vaca negra" Precio $800.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Avenida Acosta esquina Juan Delgado",
+      "municipio": "Diz de Octubre",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Nel Paradiso",
+ "telefono": "76967579","52953716",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      ""]
+ "ubicacion" {
+      "calle": "Acista #303 esquina Armas"
+      "municipio": "Diez de Octubre",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Lacret 551",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Bebidas":[
+          "Cerveza importada" Precio $340.00,
+          "Cerveza en lata" Precio $340.00
+          "Cerveza en botella" Precio $490.00,
+          "Agua natural" Precio $250.00,
+          "Agua gaseada" Precio $250.00,
+          "Kermato" Precio $650.00,
+          "Energizante" Precio $430.00,
+          "Refresco" Precio $350.00,
+          "Malta" Precio $430.00,
+          "Cafre expreso" Precio $175.00 
+          "Copa de vino tinto" Precio $550.00,
+          "Copa de vino de frutas" Precio $350.00,
+          "Shot de tequila blanco" Precio $650.00,
+          "Shot de tequila reposado" Precio $750.00,
+          "Cerveza nacional de lata" Precio $400.00,
+          "Jugos naturales" Precio $300.00
+          "Nota":[Ofertamos cubetazo(5 cervezas importadas de lata) Precio $1550.00]
+        ],
+        "Cocteles de la casa":[
+          "Blue Lagoon"(Vodka,refresco de limon y curaçao azul) Precio $650.00,
+          "Gin Lemon B"(Ginebra,refrescos de limon,curaçao azul) Precio $650.00,
+          "Caipiriachi"(Caipirinha y tequila) Precio $650.00,
+          "Bob Marley"(Añejo blanco,curaçao azul,granadina y jugo de piña) Precio $650.00
+          "Caipipink"(Ron legendario de fresa,azucar y limon) Precio $650.00,
+          "Ojo Rojo 559"(Cerveza,salsa de soja,tabasco,limon y tajin) Precio $650.00,
+          "Gravity"(Cerveza,shot de Jagger y shot de tequila) Precio $850.00
+        ],
+        "Cocteles":[
+          "Sangria" Precio $660.00,
+          "Tinto de verano" Precio $660.00
+          "Calimocho" Precio $560.00,
+          "Screwdriver" Precio $470.00,
+          "Caipirissima" Precio $570.00,
+          "Caipirinha" Precio $570.00,
+          "Cubata" Precio $470.00,
+          "Cuba Libre" Precio $470.00,
+          "Cubanito" Precio $480.00,
+          "Mojito" Precio $580.00,
+          "Barbados Surprise" Precio $580.00,
+          "Whiscola" Precio $460.00,
+          "Old Fashioned" Precio $650.00,
+          "Gin Tonic" Precio $610.00,
+          "Margarita" Precio $700.00,
+          "Canchanchara" Precio $580.00,
+          "Servicio de Michelada" Precio $500.00,
+          "Servicio de Chelada" Precio $250.00,
+          "Limomada" Precio $500.00
+        ],
+        "De la granja":[
+          "Ropa vieja de res" Precio $2025.00,
+          "Pechuga de pollo Grille" Precio $1975.00,
+          "Pechuga de pollo a la Gordon Blue" Precio $2175.00
+        ],
+        "Del mar":[
+          "Pescado Grille" Precio $1975.00
+          "Pescado Enchilado" Precio $1975.00,
+          "Pescado Canciller" Precio $2175.00
+        ],
+        "Guarniciones":[
+          "Arroz blanco" Precio $400.00,
+          "Arroz pilaf" Precio $500.00,
+          "Chips de boniato" Precio $400.00,
+          "Chips de malanga" Precio $400.00,
+          "Papas fritas" Precio $400.00
+        ],
+        "Tacos":[
+          "Tacos de Res" Precio $1550.00,
+          "Tacos de Mar" Precio $1550.00,
+          "Tacos de Cerdo" Precio $1200.00
+          "Tacos de pollo" Precio $1000.00
+        ],
+        "Nota":[Los platos fuertes vienen acompañados de arroz blanco,vegetales y 1 cerveza o 1 agua natural]
+        "Sugerencias del chef":[
+          "Langosta al gusto" Precio $2600.00,
+          "Camarones al gusto" Precio $2400.00,
+          "Lomo ahumado" Precio $2175.00,
+          "Lomo importado" Precio $2500.00
+          "Chuleta de cerdo" Precio $210p.00,
+          "Enchilladio de cangrejo" Precio $2400.00,
+          "Hamburguesa de Res" Precio $850.00
+        ],
+        "Tapas":[
+          "Frituras de malanga" Precio $425.00,
+          "Croquetas 559" Precio $650.00,
+          "Croqueton de res" Precio $1000.00,
+          "Esperlan de pescado" Precio $700.00,
+          "Carpaccio de res" Precio $1550.00,
+          "Carpaccio de Langosta" Precio $1500.00,
+          "Carpaccio de pulopo" Precio $1600.00,
+          "Ceviche" Precio $950.00,
+          "Piquillos rellenos del mar" Precio $1050.00,
+          "Piquillos rellenos de ropa vieja" Precio $1550.00,
+          "Papas bravas" Precio $700.00,
+          "Fajitas de pollo" Precio $700.00,
+          "Brusquetas a la parmesana" Precio $600.00,
+          "Totopitos al ajo" Precio $400.00,
+          "Totopitos picantes" Precio $400.00,
+          "Papas frias" Precio $700.00
+        ],
+        "Pizzas":[
+          "Queso azul" Precio $2000.00,
+          "Napolitana" Precio $1360.00,
+          "Margarita" Precio $1400.00,
+          "Parmesana" Precio $1800.00,
+          "Carbonara" Precio $1950.00,
+          "Hawaiana" Precio $1800.00,
+          "Cantabrica" Precio $1800.00,
+          "Marina" Precio $2400.00,
+          "Mediterraneo" Precio $1800.00,
+          "Mixta Lacret" Precio $2700.00,
+          "Jamon" Precio $1500.00,
+          "Chorizo" Precio $1450.00,
+          "Bacon" Precio $1840.00,
+          "Cebolla" Precio $1400.00,
+          "Pimiento" Precio $1500.00,
+          "Vegetales" Precio $1700.00,
+          "Champiñon" Precio $1700.00,
+          "Camaron" Precio $2500.00,
+          "Atun" Precio $2300.00,
+          "Aceituna" Precio $1400.00,
+          "Jamon Serrano" Precio $3000.00,
+          "Iberica" Precio $3400.00,
+          "Pepperoni" Precio $2000.00,
+          "Ranchera" Precio $2500.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Lacret #559 entre Goicuria y Mayía Rodríguez",
+      "municipio": "Diez de Octubre",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Teniente Rey 360",
+ "telefono": "78602916",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "comida cubana",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entrantes":[
+          "Surtidos Teniente Rey":[
+              "Croquetas" Precio $400.00,
+              "Bolitas de queso" Precio $500.00
+            ]
+        "Tostones rellenos" (atun y jamon) Precio $600.00,
+        "Garbanzos fritos"(Garbanzos fritos con embutidos) Precio $700.00
+        ],
+        "Spaguetis":[
+          "Mixto" Precio $2700.00,
+          "Carbonara" Precio $2000.00,
+          "Napolitano" Precio $1200.00,
+          "Camaron o Langosta o Pulpo" Precio $2500.00
+        ],
+        "Guarniciones":[
+          "Arroz"(Blanco o moro) Precio $200.00,
+          "Chatino"(Platano verde frito) Precio $300.00,
+          "Yuca"(Con mojo criollo) Precio $200.00
+        ],
+        "Postres":[
+          "Flan" Precio $500.00,
+          "Torrejas" Precio $400.00
+        ],
+        "Especialidades":[
+          "Pechuga de pollo"(grille) Precio $1950.00,
+          "Fajitas de pechuga de pollo" Precio $2000.00,
+          "Ropa vieja"(Carne ripeada con sofrito criollo) Precio $1950.00,
+          "Picadillo a la cubana" Precio $1500.00,
+          "Masas de cerdo" Precio $1700.00
+          "Fricase de cerdo" Precio $1750.00,
+          "Solomillo" Precio $1900.00
+        ],
+        "Bebidas":[
+          "Refrescos nacionales" Precio $380.00,
+          "Refrescos importados" Precio $420.00,
+          "Malta nacional" Precio $420.00,
+          "Agua natural nacional" Precio $250.00,
+          "Kermato" Precio $500.00,
+          "Agua tonica" Precio $450.00,
+          "Cervexa nacional lata" Precio $360.00,
+          "Cerveza nacional botella" Precio $460.00,
+          "Cerveza importada" Precio $460.00
+        ],
+        "Especialidades de la casa":[
+          "Coctel Camarones" Precio $700.00,
+          "Coctel Langosta" Precio $700.00
+          "Langosta"(Al anjillo,enchilado) Precio $2500.00,
+          "Colas Langosta" Precio $2600.00
+          "Camarones a la orden"(Al ajillo o enchilado) Precio $2500.00
+          "Camarones Rebosados" Precio $2800.00,
+          "Pulpo"(Al ajillo o grille) Precio $2700.00
+        ],
+        "Sugerencias del chef":[
+          "Filete Jhonvill" Precio $3500.00,
+          "Filey mignon"(Con salsa de champiñoned) Precio $3200.00
+          "Punta de filete"(Con salsa de champiñones) Previo $2900.00
+          "Filete de pescado"(Filete de pescado a la plancha) Precio $2400.00,
+          "Mariscada Teniente Rey"(Pescado,langosta y camarones a la plancha) Precio $2900.00,
+          "Cazuelita Teniente Rey"(Langosta,camarones y pulpo al ajillo o enchilado) Precio $2900.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Teniente Rey No.360,e/Villegas y Aguacate",
+      "municipio": "Habana Vieja",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Betty Boom",
+ "telefono": "53904259","72060067",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "restaurante",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": []
+ "ubicacion" {
+      "calle": "5ta A, esquina 60",
+      "municipio": "Playa",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Dong Te",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Helados":[
+          "Helados de fresa" Precio $330.00,
+          "Helados de vainilla" Precio $330.00,
+          "Helados de fresa y vainilla" Precio $350.00,
+          "Bomba de fresa en helados"(Fresa) Precio $530.00,
+          "Bomba de fresa en helados"(Vainilla) Precio $530.00,
+          "Bomba de mango en helados"(Vainilla) Precio $530.00,
+          "Bomba da maracuya en helados"(Vainilla) Precio $530.00,
+          "Bubble helados"(Vainilla) Precio $530.00,
+          "Bubble helados"(Fresa) Precio $530.00
+        ],
+        "Mas sabores":[
+          "Perla Tapioca" Precio $70.00,
+          "Budin" Precio $70.00,
+          "Coco" Precio $70.00,
+          "Bolas de cristal" Precio $70.00
+          "Bombitas de fresa" Precio $140.00,
+          "Bombitas de mango" Precio $140.00,
+          "Bombitas de maracuya" Precio $140.00
+        ],
+        ]
+ "ubicacion" {
+      "calle": "Centro de Negocios Miramar, edificio Beijing, Calle 3ra entre 76 y 78, Miramar",
+      "municipio": "Playa",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "Pechatniky",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Entrantes":[
+          "Desayuno Pechatniky" Precio $900.00,
+          "Croquetas de la casa" Precio $950.00,
+          "Frituras de malanga" Precio $820.00,
+          "Fajita de pollo" Precio $950.00
+          "Tostones rellenos" Precio $700.00,
+          "Garbanzo" Precio $1000.00,
+          "Papas fritas" Precio $800.00,
+          "Picadura Pechatniky" Precio $2900.00
+        ],
+        "Para degustar":[
+          "Pollo" Precio $1050.00,
+          "Arroz frito" Precio $1500.00,
+          "Mariscos" Precio $3000.00,
+          "Cerdo" Precio $1800.00,
+          "Vegetales sarteados al carbon" Precio $900.00,
+          "Ensalada de vegetales" Precio $700.00
+        ],
+        "Postres y helados":[
+          "Copa 2 bolas" Precio $320.00,
+          "Copa 3 bolas" Precio $380.00,
+          "Tarta Pechatniky" Precio $590.00
+        ],
+        "Bebidas":[
+          "Refresco impotado" Precio $350.00,
+          "Refresco nacional" Precio $250.00,
+          "Cerveza nacional" Precio $350.00,
+          "Cerveza importada" Precio $290.00,
+          "Agua natural" Precio $170.00,
+          "Malteada" Precio $420.00,
+          "Batidos de helados" Precio $550.00,
+          "Batidos de frutas" Precio $470.00,
+          "Energizante" Precio $350.00,
+          "Jugo natural" Precio $280.00,
+          "Jugo de lata" Precio $350.00
+        ],
+        "Cafe e Infusiones":[
+          "Expreso" Precio $200.00,
+          "Cortado" Prrcio $280.00,
+          "Americano" Precio $200.00,
+          "Pechatniky" Precio $680.00,
+          "Capuchino" Precio $350.00,
+          "Te o infusion" Precio $180.00
+        ],
+        "Comidas gourmet":[
+          "Pizza" Precio $1050.00,
+          "Pasta" Precio $1300.00,
+          "Pelmeni" Precio $1100.00,
+          "Shawarma" Precio $1000.00
+        ],
+        "Beguette y hamburguesas":[
+          "Beguette de atun" Precio $950.00,
+          "Beguette de jamon y queso" Precio $700.00,
+          "Beguette de pollo" Precio $780.00,
+          "Hamburguesa clasica" Precio $750.00
+        ],
+        "Agregos":[
+          "Agrego de jamon" Precio $250.00
+          "Agrego de queso" Precio $300.00
+          "Agrego de pollo" Precio $350.00
+          "Agrego de huevo" Precio $300.00
+          "Agrego de atun" Precio $500.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Calle 22 entre 31 y 33, Miramar",
+      "municipio": "Playa",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "El Chanchullero",
+ "telefono": "",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "",
+   "cierre": "",
+   "dias_operacion": [
+      ""
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      ""
+],
+ "metodos_pagos": [
+      "CUP"
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Carnes":[
+          "Pollo al ajillo" Precio $1000.00,
+          "Fricase de cerdo" Precio $1150.00,
+          "Fricase de pollo" Precio $1000.00,
+          "Cerdo encebollado"(Juliana) Precio $1150.00,
+          "Ropa vieja"(Muuuk) Precio $1250.00,
+          "Completa de lomo ahumado" Precio $800.00
+        ],
+        "Pregunatas que hay":[
+          "Pescado Chanchullero" Precio $1600.00,
+          "Reyna de mar al ajillo" Precio $1600.00,
+          "Reyna del mar enchilada" Precio $1600.00,
+          "Rafael" Precio $1600.00
+        ],
+        "Rac de congris" Precio $225.00
+        "Nota":[Todos los platos a pululo en ensalada con pan]
+        "A que me mantengo va ...CUP":[
+          "Napolitana" Precio $900.00 
+          "Margarita" Precio $950.00,
+          "Vegetatiana" Precio $950.00,
+          "Chanchullero" Precio $1050.00,
+          "Jamon" Precio $1000.00
+        ],
+        "Agregos":[
+          "Cebolla" Precio $300.00,
+          "Pimienta" Precio $300.00,
+          "Quedo Gouda" Precio $350.00
+        ],
+        "Aguanta que vienen x 350.00":[
+          "Mojito Chanchullero"
+          "Cuba Libre"
+          "Catarro",
+          "Caipirisima"
+        ],
+        "Resfrescate el Mioi":[
+          "Agua natural" Precio $300.00,
+          "Refresco importado" Precio $350.00,
+          "Jugos naturales" Precio $400.00
+          "Limonada frappe" Precio $400.00
+          "Cerveza" Precio $350.00,
+          "Cheleada" Precio $475.00,
+          "Michelada" Precio $525.00
+        ],
+          "Daiquiri" Precio $400.00
+          "Copa de vino" Precio $600.00,
+          "Tinto de verano" Precio $550.00
+        "Tambien para los duros":[
+          "Ron santiago 8" Precio $750.00
+        ],
+        "Entra por la goma":[
+          "Tapas de tomate" Precio $300.00
+          "Tapas de carne" Precio $450.00
+          "Tapas de pescado" Precio $450.00,
+          "Tacos con carne" Precio $500.00
+          "Tamal con carne" Precio $650.00
+          "Nachos criollos" Precio $600.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "Alamar. Zona 6. #16204 calle 5ta.",
+      "municipio": "Habana de Este",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
+{
+ "nombre": "D'Maximo Sabor",
+ "telefono": "77665401",
+ "correo_electronico": "",
+ "pagina_web": "",
+ "tipo_establecimiento": "",
+ "tipo_cocina": "",
+ "horario":{
+   "apertura": "11:00",
+   "cierre": "11:00",
+   "dias_operacion": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado",
+      "Domingo"
+   ]
+},
+ "opciones_reserva": [
+      ""
+],
+ "opciones_entrega": [
+      "True"
+],
+ "metodos_pagos": [
+      ""
+],
+"servicio_wifi": [
+      ""
+],
+"opciones": [
+      ""
+],
+"circulos infantiles": [
+      ""
+],
+"opciones_amenidad": [
+      ""
+],
+"promociones_descuento": ""
+ "facebook": "",
+ "instagram": "",
+ "menu": [
+      "Infusiones":[
+          "Cafe expreso" Precio $150.00
+        ],
+        "Pollo":[
+          "Pechuga grille" Precio $850.00,
+          "Pechuga empanada" Precio $900.00,
+          "Pollo Gordon Blue" Precio $1200.00
+        ],
+        "Cerdo":[
+          "Bistec de cerdo" Precio $900.00
+          "Escalope de cerdo" Precio $980.00,
+          "Masas de cerdo" Precio $1300.00
+          "Chuletas" Precio $1300.00,
+          "Lomo ahumado" Precio $1200.00,
+          "Punta de bistec" Precio $950.00
+          "Uruguayo" Precio $1250.00
+        ],
+        "Pastas y Pizzas":[
+          "Napolitana" Precio $800.00
+        ],
+        "Postres":[
+          "Helado" $100.00
+        ],
+        "Agregos":[
+          "Piña" Precio $150.00,
+          "Cebolla" Precio $180.00,
+          "Pimienta" Precio $150.00,
+          "Aceituna" Precio $250.00,
+          "Jamon" Precio $300.00,
+          "Camarones" Precio $350.00,
+          "Queso" Precio $350.00,
+          "Atun" Precio $350.00
+        ],
+        "Lasaña" Precio $850.00,
+        "Caja para pizza" Precio $40.00,
+        "Termo Pack" Precio $100.00
+        "Otros":[
+          "Arroz frito" Precio $850.00,
+          "Ropa Vieja" Precio $980.00,
+          "Higado a su gusto" Precio $850.00
+        ],
+        "Del mar":[
+          "Filete Grille" Precio $950.00,
+          "Filete empanado" Precio $1050.00,
+          "Filete montetoro" Precio $1250.00,
+          "Canciller" Precio $1450.00,
+          "Jhon Bill" Precio $1600.00,
+          "Camarones Grille" Precio $1250.00,
+          "Camarones enchilado" Precio $1350 00,
+          "Langosta grille" Precio $1600.00,
+          "Langosta enchilada" Precio $1700.00
+        ],
+        "Entrantes":[
+          "Crema de queso" Precio $350.00,
+          "Crema aurora" Precio $350.00,
+          "Crema virginia" Precio $350.00,
+          "Agrego de queso crema" Precio 200.00,
+          "Agregos de jamon crema" Precio $200.00,
+          "Tostones rellenos"(jamon) Precio $380.00,
+          "Tostones rellenos"(jamon y queso) Precio $450.00,
+          "Tostones rellenos"(atun) Precio $450.00,
+          "Tostones al ajillo" Precio $250.00,
+          "Coctel de pescado" Precio $450.00,
+          "Coctel de camarones" Precio $490.00,
+          "Coctel de langosta" Precio $650.00,
+          "Fajitas de pollo" Precio $680.00,
+          "Fajitas de cerdo" Precio $650.00,
+          "Esperlan" Precio $680.00,
+          "Camaron rebosado" $850.00,
+          "Croquetas" Precio $300.00,
+          "Ensalada fria" Precio 380.00
+        ],
+        "Guarniciones":[
+          "Arroz blanco" Precio $130.00,
+          "Arroz moro" Precio $150.00,
+          "Ensalada de Estacion" Precio $250.00,
+          "Vianda Ftita" Precio $250.00
+        ],
+        "Nota":[Todos los platos salen acompañados de su guarnicion]
+        ],
+        "Liquidos":[
+          "Agua natural" Precio $180.00,
+          "Refresco importado" Precio $300.00,
+          "Jugo"(Enlatado) Precio $290.00,
+          "Malta nacional" Precio $350.00,
+          "Malta importada" Precio $270.00
+          "Cerveza nacional" Precio $320.00,
+          "Cerveza importada" Precio $260.00,
+          "Cerveza Corona" Precio $550.00,
+          "Energizante" Precio $250.00,
+          "Malteada" Precio $480.00
+        ],
+        "Tragos":[
+          "Michelada nacional" Precio $490.00,
+          "Michelada importada" Precio $470.00,
+          "Michelada con Corona" Precio $690.00,
+          "Sangria" Precio $400.00,
+          "Habana Club Cuban Spiced" Precio $280.00,
+          "Habana Club 7 Años" Precio $300.00,
+          "Tequila Olmeca" Precio $300.0p,
+          "Ballantine" Precio $400.00,
+          "J&B" Precio $400.00,
+          "Red Label" Precio $460.00,
+          "Chivas Regal 12 Años" Precio $460.00,
+          "Black Label" Precio $550.00,
+          "Seleccion Maestro" Precio $550.00,
+          "Botella de vino" Precio $2200.00
+        ]
+    ]
+ "ubicacion" {
+      "calle": "20 e/2da y 4ta. Reparto Guiteras",
+      "municipio": "Habana de Este",
+      "provincia": "La Habana",
+      "pais": "Cuba",
+      "coordenadas": ""
+    }
+}
